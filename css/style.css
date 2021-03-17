@@ -1,0 +1,12 @@
+body{
+
+	background-color: green;
+}
+.lol{
+	color: yellow;
+	text-decoration: none;
+}
+.lolp{
+	display: flex;
+	justify-content: center;
+}
